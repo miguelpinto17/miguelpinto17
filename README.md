@@ -14,7 +14,7 @@
 - Scalable data pipelines using Apache Spark and Nifi
 - Cloud services for data processing and deployment
 
-## 💞️ I’m looking to collaborate on
+## 🏡 I’m looking to collaborate on
 - Open-source data projects
 - AI for social good
 - Anything combining data, learning, and impactful storytelling

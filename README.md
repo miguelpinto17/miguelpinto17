@@ -10,9 +10,11 @@
 - Space exploration, cinema, and basketball on the side 🚀🎬🏀
 
 ## 🌱 I’m currently learning
-- Advanced ML techniques for health applications
-- Scalable data pipelines using Apache Spark and Nifi
-- Cloud services for data processing and deployment
+- NoSQL databases and document-oriented modeling (e.g. MongoDB, Neo4j)
+- Big Data processing with tools like Apache Spark and Hadoop
+- Data analysis and transformation for real-world datasets
+- ETL pipelines for ingesting, cleaning, and integrating data
+- Data warehouse modeling using dimensional design and star/snowflake schemas
 
 ## 🏡 I’m looking to collaborate on
 - Open-source data projects
